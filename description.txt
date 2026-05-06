@@ -1,2 +1,0 @@
-Adds meals and drinks that can be placed as decoration or eaten.
-Most items don't have a recipe without farming redo installed.
